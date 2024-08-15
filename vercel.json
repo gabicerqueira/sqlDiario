@@ -1,5 +1,5 @@
 {
-    "buildCommand": "expo export -p web",
+    "buildCommand": "expo build:android",
     "outputDirectory": "dist",
     "devCommand": "expo",
     "cleanUrls": true,
