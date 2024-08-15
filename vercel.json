@@ -1,5 +1,5 @@
 {
-    "buildCommand": "expo build:android",
+    "buildCommand": "eas build --platform android",
     "outputDirectory": "dist",
     "devCommand": "expo",
     "cleanUrls": true,
